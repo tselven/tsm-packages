@@ -4,7 +4,7 @@
     "packages":[
         {
             "name":"crud-router",
-            "type":"npm",
+            "type":"tsm",
             "author": "P.Thamilselven",
             "source":"https://github.com/api-craft/crud-router",
             "defaultVersion":"1.0.1",
