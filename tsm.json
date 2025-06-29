@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "description": "This file contains the configuration for the TSM (Time Series Management) system.",
+    "packages":[
+        {
+            "name":"crud-router",
+            "type":"npm",
+            "author": "P.Thamilselven",
+            "source":"https://github.com/api-craft/crud-router",
+            "defaultVersion":"1.0.1",
+            "meta":"graphite.json"
+        }
+    ]
+}
