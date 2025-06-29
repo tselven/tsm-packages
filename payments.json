@@ -1,0 +1,12 @@
+[
+    {
+        "version":"1.0.0",
+        "isDepricated":true,
+        "mode":"beta"
+    },
+    {
+        "version":"1.0.1",
+        "isDepricated":false,
+        "mode":"stable"
+    }
+]

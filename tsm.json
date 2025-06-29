@@ -5,10 +5,20 @@
         {
             "name":"crud-router",
             "type":"tsm",
+            "lang":"javascript",
             "author": "P.Thamilselven",
             "source":"https://github.com/api-craft/crud-router",
             "defaultVersion":"1.0.1",
             "meta":"graphite.json"
+        },
+        {
+            "name":"payments",
+            "type":"tsm",
+            "lang":"javascript",
+            "author": "P.Thamilselven",
+            "source":"https://github.com/api-craft/payments",
+            "defaultVersion":"1.0.1",
+            "meta":"payments.json"
         }
     ]
 }
